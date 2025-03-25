@@ -13,3 +13,5 @@
 The data is structured to be compatible with SQL Server and MariaDB using the InnoDB storage engine. Included in this repository are SQL scripts to create the necessary tables and insert the corresponding data for 249 countries.
 
 Feel free to use, modify, and contribute to this database for your own projects. 🚀
+
+**source**: https://en.wikipedia.org/wiki/ISO_3166-1
